@@ -2,6 +2,8 @@
 
 *I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting!* :smile:
 
+Connect with me on LinkedIn: <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=macrawford&count_private=true&hide=stars&show_icons=true&theme=calm)](https://github.com/macrawford/github-readme-stats)
 <!--
 **macrawford/macrawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
