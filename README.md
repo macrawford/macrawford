@@ -1,5 +1,7 @@
 # Hi, I'm Matt Crawford <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting! :smile:
+
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=macrawford&count_private=true&hide=stars&show_icons=true&theme=calm)](https://github.com/macrawford/github-readme-stats)
 <!--
 **macrawford/macrawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
