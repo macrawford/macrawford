@@ -1,6 +1,6 @@
 # Hi, I'm Matt Crawford <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=macrawford&count_private=true&hide=stars&show_icons=true&theme=synthwave)](https://github.com/macrawford/github-readme-stats)
+[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=macrawford&count_private=true&hide=stars&show_icons=true&theme=calm)](https://github.com/macrawford/github-readme-stats)
 <!--
 **macrawford/macrawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
