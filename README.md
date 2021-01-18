@@ -19,7 +19,7 @@ I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting. Re
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></img>
 
-Other skills (that they don't have cool icons for) include: Docker, Nginx, Webpack and Babel.
+Other skills (that they don't have cool icons for) include Docker, Nginx, Webpack, Babel and more.
 
 ## Stats :chart_with_upwards_trend:
 
