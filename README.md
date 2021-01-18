@@ -3,6 +3,7 @@
 I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting! Contact me on LinkedIn or email.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>](https://www.linkedin.com/in/-matthewcrawford-/)
+
 :mailbox:: matthew.crawford92@gmail.com
 
 ## Skills <img src="https://digtechsummer16.files.wordpress.com/2017/06/1-26.gif" width="30px">
