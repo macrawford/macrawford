@@ -1,10 +1,8 @@
 # Hi, I'm Matt Crawford. What's your name? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting! Contact me on LinkedIn or email.
+I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>](https://www.linkedin.com/in/-matthewcrawford-/)
-
-:mailbox:: matthew.crawford92@gmail.com
 
 ## Skills <img src="https://digtechsummer16.files.wordpress.com/2017/06/1-26.gif" width="30px">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
