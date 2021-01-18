@@ -21,6 +21,7 @@
 
 Other skills (that they don't have cool icons for) include: Docker, Nginx, Webpack and Babel.
 
+## Stats :chart_with_upwards_trend:
 
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=macrawford&count_private=true&hide=stars&show_icons=true&theme=calm)](https://github.com/macrawford/github-readme-stats)
 <!--
