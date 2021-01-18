@@ -1,4 +1,4 @@
-# Hi, I'm Matt Crawford. What's your name? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Matt Crawford. What's your name? :briefcase:
 
 *I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting!* :smile:
 
