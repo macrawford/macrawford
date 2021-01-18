@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></img>
 
+Other skills (that they don't have cool icons for) include: Docker, Nginx, Webpack and Babel.
+
 
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=macrawford&count_private=true&hide=stars&show_icons=true&theme=calm)](https://github.com/macrawford/github-readme-stats)
 <!--
