@@ -5,7 +5,7 @@ I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting! Co
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>](https://www.linkedin.com/in/-matthewcrawford-/)
 
 
-### Skills <img src="https://digtechsummer16.files.wordpress.com/2017/06/1-26.gif" width="30px">
+## Skills <img src="https://digtechsummer16.files.wordpress.com/2017/06/1-26.gif" width="30px">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
@@ -22,6 +22,6 @@ I'm a fullstack software engineer living in Seattle, WA. Thanks for visiting! Co
 
 Other skills (that they don't have cool icons for) include: Docker, Nginx, Webpack and Babel.
 
-### Stats :chart_with_upwards_trend:
+## Stats :chart_with_upwards_trend:
 
 [![Matt's github stats](https://github-readme-stats.vercel.app/api?username=macrawford&count_private=true&hide=stars&show_icons=true&theme=calm)](https://github.com/macrawford/github-readme-stats)
