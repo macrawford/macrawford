@@ -6,6 +6,13 @@ I'm a fullstack software engineer living in Seattle, WA. I like coding, and all 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:matthew.crawford92@gmail.com)
 
 ## Apps
+
+Here are a few of the applications I've built!
+
+### BB's Teriyaki
+
+I built this app for a local Seattle restaurant chain using React Native. Check out its repo [here](https://github.com/macrawford/bbs-teriyaki-app)!
+
 ![Alt Text](https://github.com/macrawford/bbs-teriyaki-app/blob/main/cart1.gif "cart 1")
 
 ## Skills <img src="https://digtechsummer16.files.wordpress.com/2017/06/1-26.gif" width="30px">
