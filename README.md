@@ -19,7 +19,7 @@ I built this app for a local Seattle restaurant chain using React Native. Check 
 
 I built a full-stack question and answer service for a vacation planning site. Its repo [here](https://github.com/excursion-expert/questionAndAnswer)!
 
-![Alt Text](https://github.com/excursion-expert/questionAndAnswer/blob/main/askquestion.gif "ask question)
+![Alt Text](https://github.com/excursion-expert/questionAndAnswer/blob/main/askquestion.gif "ask question")
 
 ## Skills <img src="https://digtechsummer16.files.wordpress.com/2017/06/1-26.gif" width="30px">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
