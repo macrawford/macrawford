@@ -14,6 +14,7 @@ Here are a few of the applications I've built!
 I built this app for a local Seattle restaurant chain using React Native. Check out its repo [here](https://github.com/macrawford/bbs-teriyaki-app)!
 
 ![Alt Text](https://github.com/macrawford/bbs-teriyaki-app/blob/main/cart1.gif "cart 1")
+![Alt Text](https://github.com/macrawford/bbs-teriyaki-app/blob/main/order.gif "order")
 
 ### Excursion Expert
 
