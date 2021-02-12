@@ -7,7 +7,7 @@ I'm a fullstack software engineer living in Seattle, WA. I like coding, and all 
 
 # Apps
 
-Here are a few of the applications I've built!
+Here are a few recent applications I've built!
 
 ## BB's Teriyaki
 
