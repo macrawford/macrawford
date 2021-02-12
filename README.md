@@ -5,18 +5,18 @@ I'm a fullstack software engineer living in Seattle, WA. I like coding, and all 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>](https://www.linkedin.com/in/-matthewcrawford-/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:matthew.crawford92@gmail.com)
 
-## Apps
+# Apps
 
 Here are a few of the applications I've built!
 
-### BB's Teriyaki
+## BB's Teriyaki
 
 I built this app for a local Seattle restaurant chain using React Native. Check out its repo [here](https://github.com/macrawford/bbs-teriyaki-app)!
 
 ![Alt Text](https://github.com/macrawford/bbs-teriyaki-app/blob/main/cart1.gif "cart 1")
 ![Alt Text](https://github.com/macrawford/bbs-teriyaki-app/blob/main/order.gif "order")
 
-### Excursion Expert
+## Excursion Expert
 
 I built a full-stack question and answer service for a vacation planning site. Its repo [here](https://github.com/excursion-expert/questionAndAnswer)!
 
