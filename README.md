@@ -16,15 +16,15 @@ I built this app for a local Seattle restaurant chain using React Native. Check 
 ![Alt Text](https://github.com/macrawford/bbs-teriyaki-app/blob/main/cart1.gif "cart 1")
 ![Alt Text](https://github.com/macrawford/bbs-teriyaki-app/blob/main/order.gif "order")
 
+## Excursion Expert
+
+I built a full-stack question and answer service for a vacation planning site. Its repo [here](https://github.com/excursion-expert/questionAndAnswer)!
+
+![Alt Text](https://github.com/excursion-expert/questionAndAnswer/blob/main/askquestion.gif "ask question")
+
 ## The Hero's Journey (Of Scaling a Back-End)
 
 I wrote a light-hearted account of my journey scaling a retail app to handle web-scale traffic. I think it's pretty fun. Check out its README [here](https://github.com/footwork-web/related-items/blob/main/README.md).
-
-## Excursion Expert
-
-I also built a full-stack question and answer service for a vacation planning site. Its repo [here](https://github.com/excursion-expert/questionAndAnswer)!
-
-![Alt Text](https://github.com/excursion-expert/questionAndAnswer/blob/main/askquestion.gif "ask question")
 
 ## Skills <img src="https://digtechsummer16.files.wordpress.com/2017/06/1-26.gif" width="30px">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
