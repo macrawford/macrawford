@@ -1,6 +1,6 @@
 # Hi, I'm Matt Crawford. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a fullstack software engineer living in Seattle, WA. I love coding and all things outdoors. Thanks for visiting. Please reach out on LinkedIn or email!
+I'm a fullstack software engineer living in Seattle WA. I love coding and all things outdoors. Thanks for visiting. Please reach out on LinkedIn or email!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>](https://www.linkedin.com/in/-matthewcrawford-/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>](mailto:matthew.crawford92@gmail.com)
